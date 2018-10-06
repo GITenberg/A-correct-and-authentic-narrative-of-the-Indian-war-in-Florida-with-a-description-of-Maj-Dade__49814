@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'A correct and authentic narrative of the Indian war in Florida
 
   with a description of Maj. Dade''s massacre, and an account
